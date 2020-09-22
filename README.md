@@ -19,21 +19,16 @@
 </div>
 <div class="abc">
     <table  >
-        <th><h4>QUALIFICATION</h4></th>
-        <th><h4>SCHOOL/INSTITUTE</h4></th>
-        <th><h4>BOARD</h4></th>
-        <th><h4>MARKS</h4></th>
-        <tr>
-            <td>Matriculation</td>
-            <td>J.N.V.Kaimur</td>
-            <td>CBSE</td>
-            <td><a href="Matric.html">#10</a></td>
+        <h4> <td>Matriculation</td></h4>
+        <h4> <td>J.N.V.Kaimur</td></h4>
+           <h4> <td>CBSE</td><h4>
+           <h4> <td><a href="Matric.html">#10</a></td></h4>
         </tr><br>
         <tr>
-            <td>Intermediate</td>
-            <td>J.N.V.Kaimur</td>
-            <td>CBSE</td>
-            <td><a href="https://laxmi25.github.io/Education/">#12</a></td>
+            <h4> <td>Intermediate</td></h4>
+            <h4> <td>J.N.V.Kaimur</td></h4>
+            <h4><td>CBSE</td></h4>
+            <h4> <td><a href="https://laxmi25.github.io/Education/">#12</a></td></h4>
         </tr>
     </table>
 </div>
