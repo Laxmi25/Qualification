@@ -3,8 +3,13 @@
     <title>Educational Details</title>
     <style>
         .name{
+        text-align:center;
         border-radius:"50%";
         background-color:"red";
+        }
+        .abc{
+        background-color:"lightblue";
+        border:10px;
         }
         </style>
 </head>
