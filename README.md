@@ -41,7 +41,7 @@
             <td>Intermediate</td>
             <td>J.N.V.Kaimur</td>
             <td>CBSE</td>
-            <td><a href="Intermediate.html">#12</a></td>
+            <td><a href="https://laxmi25.github.io/Education/">#12</a></td>
         </tr>
     </table>
 </div>
