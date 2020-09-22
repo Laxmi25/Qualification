@@ -1,8 +1,12 @@
-<!doctype html>
 <html>
 <head>
-    <meta charset="UTF-8/">
     <title>Educational Details</title>
+    <style>
+        .name{
+        border-radius:"50%";
+        background-color:"red";
+        }
+        </style>
 </head>
 <body>
     <div class="name">
@@ -10,7 +14,7 @@
     <h2>1906056</h2>
 </div>
 <div class="abc">
-    <table border="10px" style="background-color: darkorange"; >
+    <table  >
         <th><h4>QUALIFICATION</h4></th>
         <th><h4>SCHOOL/INSTITUTE</h4></th>
         <th><h4>BOARD</h4></th>
