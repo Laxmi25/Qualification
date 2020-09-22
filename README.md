@@ -3,22 +3,6 @@
 <head>
     <meta charset="UTF-8/">
     <title>Educational Details</title>
-    <style>
-    .name{
-        text-align:center;
-        margin:10px;
-       border-radius :50px;
-        background-color:yellowgreen ;
-    }
-    .abc{
-        text-align:center;
-        margin:"50%";
-        padding:"50%";
-       border-radius :50px;
-       background-position-x: center;
-       background-position-y:center ; 
-    }
-    </style>
 </head>
 <body>
     <div class="name">
@@ -36,7 +20,7 @@
             <td>J.N.V.Kaimur</td>
             <td>CBSE</td>
             <td><a href="Matric.html">#10</a></td>
-        </tr>
+        </tr><br>
         <tr>
             <td>Intermediate</td>
             <td>J.N.V.Kaimur</td>
