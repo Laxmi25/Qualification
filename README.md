@@ -1,6 +1,5 @@
 <html>
 <head>
-    <title>Educational Details</title>
     <style>
         .name{
         text-align:center;
